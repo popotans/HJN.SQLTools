@@ -1,0 +1,8 @@
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\bin\Release\MyDevHelper2.Core.dll
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\bin\Release\MyDevHelper2.Core.pdb
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\obj\Release\MyDevHelper2.Core.dll
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\obj\Release\MyDevHelper2.Core.pdb
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\bin\Release\MyDevHelper2.Core.dll
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\bin\Release\MyDevHelper2.Core.pdb
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\obj\Release\MyDevHelper2.Core.dll
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\obj\Release\MyDevHelper2.Core.pdb

@@ -1,0 +1,4 @@
+J:\njhdisk\ProjectStudy\MyDevHelper2\HJN.SQlTools.Core\bin\Debug\HJN.SQlTools.Core.dll
+J:\njhdisk\ProjectStudy\MyDevHelper2\HJN.SQlTools.Core\bin\Debug\HJN.SQlTools.Core.pdb
+J:\njhdisk\ProjectStudy\MyDevHelper2\HJN.SQlTools.Core\obj\Debug\HJN.SQlTools.Core.dll
+J:\njhdisk\ProjectStudy\MyDevHelper2\HJN.SQlTools.Core\obj\Debug\HJN.SQlTools.Core.pdb

@@ -1,0 +1,13 @@
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\bin\Debug\MyDevHelper2.Core.dll
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\bin\Debug\MyDevHelper2.Core.pdb
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.dll
+J:\njhdisk\ProjectStudy\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.pdb
+I:\svn\MyDevHelper2\MyDevHelper2.Core\bin\Debug\MyDevHelper2.Core.dll
+I:\svn\MyDevHelper2\MyDevHelper2.Core\bin\Debug\MyDevHelper2.Core.pdb
+I:\svn\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.csprojResolveAssemblyReference.cache
+I:\svn\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.dll
+I:\svn\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.pdb
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\bin\Debug\MyDevHelper2.Core.dll
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\bin\Debug\MyDevHelper2.Core.pdb
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.dll
+D:\VSProject\MyDevHelper2\MyDevHelper2\MyDevHelper2.Core\obj\Debug\MyDevHelper2.Core.pdb
